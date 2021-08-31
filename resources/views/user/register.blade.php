@@ -18,5 +18,7 @@
         パスワード：<input type="password" name="password">
         <input type="submit" value="新規登録">
     </form>
+
+    <h4>fetchのテストをします</h4>
 </body>
 </html>
