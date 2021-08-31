@@ -17,6 +17,8 @@
     </form>
 
 
+
     <a href="register">新規登録</a>
+    {{ dd($filtered) }}
 </body>
 </html>
