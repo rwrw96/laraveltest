@@ -17,7 +17,7 @@
     </form>
 
 
-
+<h5>testのやつです</h5>
     <a href="register">新規登録</a>
     {{ dd($filtered) }}
 </body>
